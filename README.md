@@ -9,10 +9,10 @@ Date: 11/04/2021
 
 The system has the function CUBO:
 
-void CUBO(int a){ // Receber valor do usuario // Input user value
+void CUBO(int a){ // Input user value
 
-int resultado = (a * a * a); // Variavel e processamento // Variable and processing
-printf("O cubo do valor %d eh %d", a, resultado); // Saida // Output
+int resultado = (a * a * a); // Variable and processing
+printf("O cubo do valor %d eh %d", a, resultado); // Output
 }
 
 
@@ -35,10 +35,10 @@ Data: 04/11/2021
 
 O sistema possui a função CUBO:
 
-void CUBO(int a){ // Receber valor do usuario // Input user value
+void CUBO(int a){ // Receber valor do usuario
 
-int resultado = (a * a * a); // Variavel e processamento // Variable and processing
-printf("O cubo do valor %d eh %d", a, resultado); // Saida // Output
+int resultado = (a * a * a); // Variavel e processamento
+printf("O cubo do valor %d eh %d", a, resultado); // Saida
 }
 
 O sistema recebe um valor e armazena na varíavel: valor01
