@@ -1,5 +1,5 @@
-# Calculating the cube of the value
-System that receives a value and calculates the cube of the value.
+# Cubing value
+System that receives a value and cubes the value.
 
 Install Dev C++;
 Operating System: Windows 10;
@@ -24,8 +24,8 @@ After the system receives and stores the value, the function CUBO is called, the
 ----------------------------------------------------------------------------------------------------------------------
 
 
-# Cálculo do cubo de um valor
-Sistema que recebe um valor e calcula o cubo do valor.
+# Elevando valor ao cubo
+Sistema que recebe um valor e eleva o valor ao cubo.
 
 Instale o Dev C++;
 Sistema Operacional: Windows;
