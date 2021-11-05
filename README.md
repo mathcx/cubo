@@ -5,7 +5,7 @@ Install Dev C++;
 Operating System: Windows 10;
 Developed in C
 Author: Matheus Alexsander da Cruz
-Date: 04/11/2021
+Date: 11/04/2021
 
 The system has the function CUBO:
 
