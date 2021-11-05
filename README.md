@@ -1,4 +1,4 @@
-# Calculating the cube of a value
+# Calculating the cube of the value
 System that receives a value and calculates the cube of the value.
 
 Install Dev C++;
